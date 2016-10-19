@@ -4,7 +4,7 @@ __author__ = 'Derandi Hermanda'
 import httplib, urllib
 import time
 sleep = 60 #waktu (detik) untuk sleep dan post ke chanel
-key = '0TNRE99H970T0VZT'
+key = 'isi API Key thingspeak'
 
 # ini untuk meng push data ke thinkspeak channel
 def thermometer():
